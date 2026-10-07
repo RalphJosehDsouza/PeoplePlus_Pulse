@@ -7,7 +7,7 @@ Team: Sean Pereira, Pranay Reddy, Ralph Dsouza (B.E. Computer Engineering, Fr. C
 
 | | |
 |---|---|
-| Live demo | `<ADD STREAMLIT LINK>` |
+| Live demo | `https://peoplepluspulse-ztaxggzhuaoiddzvvrdewg.streamlit.app/` |
 | Report | `Team26_PeoplePlusAI_Hackathon4.0.pdf` |
 
 <!-- Add a screenshot or GIF here: ![demo](figures/demo.gif) -->
